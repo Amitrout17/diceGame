@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+}
+h3{
+    display: inline;
+    position: relative;
+    bottom: 100px;
+}
+div{
+    display: inline;
+    width: 340px;
+    overflow: auto;
+}
+.div1{
+    margin-left: 20%;
+}
+.div2{
+    margin-left: 100px;
+}
+footer{
+    font-size: 100px;
+    font-style: italic;
+    color: white;
+    text-align: center;
+    background-color: purple;
+}
